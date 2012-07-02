@@ -1,0 +1,4 @@
+jquery-slider
+=============
+
+firs-slider
